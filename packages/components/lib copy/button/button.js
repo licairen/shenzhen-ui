@@ -1,0 +1,1 @@
+"use strict";const e=require("vue"),n=e.createElementVNode("button",null,"test \u6D4B\u8BD5",-1),c={__name:"button",setup(o){const t=e.ref("abc");return(r,l)=>(e.openBlock(),e.createElementBlock(e.Fragment,null,[e.createElementVNode("h3",null,"\u6D4B\u8BD5\u6309\u94AE---"+e.toDisplayString(t.value),1),n],64))}};module.exports=c;
