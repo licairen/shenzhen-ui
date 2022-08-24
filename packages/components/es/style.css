@@ -1,3 +1,10 @@
-.test[data-v-49a32cfe] {
+*[data-v-91d90028] {
+  padding: 0;
+  margin: 0;
+}
+.test[data-v-91d90028] {
+  border: none;
+  padding: 10px;
+  margin: 10px;
   color: #f1f;
 }

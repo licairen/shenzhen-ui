@@ -1,6 +1,6 @@
 {
   "name": "shenzhen-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.ts",
   "scripts": {
@@ -11,7 +11,10 @@
     "es",
     "lib"
   ],
-  "keywords": ["shenzhen-ui", "vue3组件库"],
+  "keywords": [
+    "shenzhen-ui",
+    "vue3组件库"
+  ],
   "author": "李才人",
   "license": "ISC",
   "dependencies": {
